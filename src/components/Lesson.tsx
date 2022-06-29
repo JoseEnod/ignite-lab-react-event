@@ -45,7 +45,7 @@ const isLessonAvailable = isPast(props.availableAt);
           </span>
         </header>
 
-        <strong className={`text-gray-200 mt-5 block ${isActiveLesson ? 'text-white': 'text-gray-200'}`}>
+        <strong className={`mt-5 block ${isActiveLesson ? 'text-white': 'text-gray-200'}`}>
           {props.title}
         </strong>
       </div>
