@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🖥 Projeto
 
 Essa é uma plataforma para transmissão de eventos ao vivo ou em aulas gravadas.<br>
+Você pode acessar o projeto nesse link: https://ignite-lab-react-event-pearl.vercel.app/
 
 ## 💻 Baixar e iniciar projeto
 
